@@ -1,0 +1,22 @@
+.main {
+  font-size:25px;
+  font-family:courier;
+  margin:20px;
+  padding:inherit;
+  background-color:white;
+}
+
+.main-button input{
+  font-size:25px;
+  font-family:courier;
+  margin:20px;
+}
+
+.main-button input:hover {
+  color:white;
+  background-color:grey;
+}
+
+.main-button input:active {
+  color:orange;
+}
