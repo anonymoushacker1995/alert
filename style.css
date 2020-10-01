@@ -20,3 +20,32 @@
 .main-button input:active {
   color:orange;
 }
+
+.information {
+  color:red;
+}
+
+.birthday{
+  font-family:Verdana;
+  font-size:80px;
+}
+
+.continue input{
+  background-color:black;
+  border-color:black;
+  color:white;
+  font-size:80px;
+  font-family:Verdana;
+  padding:10px;
+  border-radius:20px;
+}
+
+.continue input:hover{
+  border-color:grey;
+  color:black;
+  background-color:grey;
+}
+
+.continue input:active{
+  color:orange;
+}
